@@ -6,7 +6,7 @@ class details{
     String branch;
 }
 
-public class program1day4 {
+public class prog_1_1 {
     public static void main(String[] args){
         details box=new details();
         Scanner sc=new Scanner(System.in);
